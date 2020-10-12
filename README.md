@@ -4,8 +4,8 @@ Want to see it in action? Check out "Woods", a short dialog driven game built wi
 
 Features:<br/>
 Read dialog from a CSV - no need for external applications or inflexible workflow systems<br/>
-Code free implementation...<br/>
-Or, code only implementation!<br/>
+EasyConversation object requires only one line of code, or...<br/>
+Code only implementation!<br/>
 Supports multiple simultaneous conversations, textboxes and UI objects<br/>
 No required third party assets - only uses assets which ship with Unity 5.5<br/>
 Custom macros allow your dialog writer to shift between dialog boxes<br/>
@@ -22,7 +22,7 @@ Macros generate event calls<br/>
 -create a .txt where each line of dialog is on a seperate line
 -add "<NameMacro>", where "NameMacro" is a character name or etc. to be associated with a given dialog box, to a line whenever you want to change to a different DialogBox<br/>
  
-# How to Implement (Easy Conversation object / code-free):<br/>
+# How to Implement (Easy Conversation object):<br/>
 <br/>
 Setting Up:<br/>
 -add DialogSystem folder to your Assets folder for the current scene <br/>
