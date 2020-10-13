@@ -36,7 +36,7 @@ Creating Your Dialog Boxes and EasyConversation Objects:<br/>
 Setting Up the EasyConversation Object:<br/>
 -add the textfile created above to "scriptFile"<br/>
 -add all dialogBoxes to be used to "dialogBoxes"<br/>
--add names (the ones used in the <NameMacro> command) to each dialogBox by adding them to "speakerNames" at the index corresponding to their dialogBox in "dialogBoxes"<br/>
+-add names (the ones used in the [trianglebracket]NameMacro[trianglebracket] command) to each dialogBox by adding them to "speakerNames" at the index corresponding to their dialogBox in "dialogBoxes"<br/>
 <br/>
 -use command "(this EasyConversation object).GetComponent<EasyConversation>().conversation.advance();" whenever you wish to send the next line to its corresponding DialogBox<br/>
 <br/>
