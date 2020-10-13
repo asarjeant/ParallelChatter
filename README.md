@@ -19,8 +19,8 @@ Macros generate event calls<br/>
 <br/>
 
 # Creating a Conversation as a .txt:<br/>
--create a .txt where each line of dialog is on a seperate line
--add "<NameMacro>", where "NameMacro" is a character name or etc. to be associated with a given dialog box, to a line whenever you want to change to a different DialogBox<br/>
+-create a .txt where each line of dialog is on a seperate line<br/>
+-add "[trianglebracket]NameMacro[trianglebracket]", where "NameMacro" is a character name or etc. to be associated with a given dialog box, to a line whenever you want to change to a different DialogBox<br/>
  
 # How to Implement (Easy Conversation object):<br/>
 <br/>
@@ -42,9 +42,6 @@ Setting Up the EasyConversation Object:<br/>
 <br/>
 
 # How to Implement (Code only):<br/>
--create a .txt where each line of dialog is on a seperate line<br/>
--add <characterNameMacro> to a line whenever you want to change to a different DialogBox<br/>
-<br/>
 -add the .txt file containing the dialog to your assets<br/>
 -add DialogSystem folder to your Assets folder for the current scene<br/>
 -drag prefab "DialogBox" into scene and rename (make sure it has DialogBoxCode attached)<br/>
