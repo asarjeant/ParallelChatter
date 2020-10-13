@@ -1,3 +1,5 @@
+Note: this file contains code using triangle brackets. These will we be missing if you are viewing this readme in github's default reader.
+
 # ParallelChatter
 A CSV-based multi-use text dialog system for Unity 5.5. Designed as a scrappy, small-scale alternative to Yarnspinner and other feature-rich but inflexible dialog implementations.<br/>
 Want to see it in action? Check out "Woods", a short dialog driven game built with this ParallelChatter! https://archie-sarjeant.itch.io/woods-in-browser
